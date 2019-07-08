@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:yiyifs_wpf_winform_client"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Yiyifs wpf winform client" Height="450" Width="800">
     <Grid>
         <Button x:Name="bt_selectFile" Content="选择文件并上传" HorizontalAlignment="Left" Margin="43,24,0,0" VerticalAlignment="Top" Width="225" Click="Bt_selectFile_Click" Height="96"/>
 
